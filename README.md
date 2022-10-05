@@ -1,0 +1,1 @@
+App with node where you can rate and insert the albums you like. I used MongoDB, Express, mongoose and jsonwebtoken
